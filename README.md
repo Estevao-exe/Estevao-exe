@@ -1,46 +1,127 @@
-# 💜 Estevão F. Garcia
+<p align="center">
+  <img src="./assets/banner-neon.png" alt="Estevão F. Garcia - Neon" width="100%">
+</p>
 
-### 👨‍💻 Estudante de Ciência da Computação
+<h1 align="center">👋 Olá, eu sou Estevão F. Garcia!</h1>
 
----
-
-## 🚀 Sobre mim
-
-🎓 Cursando **Ciência da Computação**
-
-💻 Linguagens que gosto:
-
-* 🐍 Python
-* #️⃣ C#
-
-🎮 Gosto de **desenvolvimento de jogos**
+<p align="center">
+  🎓 Estudante de Ciência da Computação <br>
+  💻 Fã de programação <br>
+  🎮 Desenvolvedor de jogos em aprendizado
+</p>
 
 ---
 
-## 🛠️ Tecnologias
+## 👨‍💻 Sobre mim
+
+Atualmente estou cursando **Ciência da Computação** e estudando programação e desenvolvimento de jogos.
+Preguiçoso? sim mas conciente 
+Gosto de aprender criando projetos e colocando em prática os conhecimentos adquiridos.
+
+* 🎓 Cursando **Ciência da Computação**
+* 🐍 Gosto de programar em **Python**
+* 🔷 Estudando e utilizando **C#**
+* 🎮 Interessado em **Desenvolvimento de Jogos**
+* 🌱 Sempre aprendendo algo novo
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cs,godot,git,github" />
 </p>
 
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python" height="50" alt="Python"/>
+
+<img src="https://skillicons.dev/icons?i=cs" height="50" alt="C#"/>
+
+<img src="https://skillicons.dev/icons?i=godot" height="50" alt="Godot"/>
+
+<img src="https://skillicons.dev/icons?i=git" height="50" alt="Git"/>
+
+<img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub"/>
+
+</p>
+
 ---
 
-## 🎮 O que eu gosto de fazer
+# 🎮 Meus Projetos de Jogos
 
-Desenvolver jogos, aprender programação e criar projetos para colocar em prática o que estou estudando.
+Aqui estão alguns dos projetos que estou desenvolvendo enquanto aprendo programação e desenvolvimento de jogos.
+
+### 🕹️ Meu Jogo
+
+> Um projeto desenvolvido para estudar programação, mecânicas de jogos e desenvolvimento utilizando a Godot.
+
+🔧 **Tecnologias:**
+
+* Godot
+* GDScript
+* C#
+* Git e GitHub
+
+📌 **O que estou praticando:**
+
+* Movimentação de personagem
+* Máquina de estados
+* Animações
+* Colisões
+* Física
+* Mecânicas de gameplay
+
+---
+
+## 📂 Outros Projetos
+
+Além de jogos, também utilizo meus repositórios para guardar projetos e exercícios.
+
+📚 **Estudos** — conteúdos aprendidos em aula, trabalhos, exercícios e atividades.
+
+🐍 **Python** — projetos e exercícios para praticar programação.
+
+🔷 **C#** — estudos e projetos utilizando C#.
+
+🎮 **Game Development** — projetos e experimentos relacionados ao desenvolvimento de jogos.
 
 ---
 
 ## 📚 Atualmente estudando
 
-* Programação
-* Desenvolvimento de jogos
-* Python
-* C#
-* Git e GitHub
+```text
+💻 Programação
+🐍 Python
+🔷 C#
+🎮 Desenvolvimento de Jogos
+🎯 Godot Engine
+🌱 Git e GitHub
+🧠 Lógica de Programação
+```
+
+---
+
+## 🚀 Meu objetivo
+
+Meu objetivo é continuar evoluindo como programador, criando projetos, aprendendo novas tecnologias e desenvolvendo meus próprios jogos.
+
+Acredito que uma das melhores formas de aprender programação é:
+
+```text
+Aprender → Praticar → Errar → Corrigir → Criar → Evoluir 🚀
+```
 
 ---
 
 <p align="center">
-  💜 Obrigado por visitar meu perfil!
+
+## ⚡ Vamos criar algo incrível!
+
+💜 Obrigado por visitar meu perfil.
+
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
 </p>
