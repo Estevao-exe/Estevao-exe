@@ -28,9 +28,6 @@ Gosto de aprender criando projetos e colocando em prática os conhecimentos adqu
 
 ## 🛠️ Tecnologias e Ferramentas
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cs,godot,git,github" />
-</p>
 
 <p align="center">
 
