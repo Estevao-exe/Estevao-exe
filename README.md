@@ -1,8 +1,5 @@
-<p align="center">
-  <img src="./assets/banner-neon.png" alt="Estevão F. Garcia - Neon" width="100%">
-</p>
 
-<h1 align="center">👋 Olá, eu sou Estevão F. Garcia!</h1>
+<h1 align="center">👋 Olá, eu sou Estevão F. Garcia</h1>
 
 <p align="center">
   🎓 Estudante de Ciência da Computação <br>
