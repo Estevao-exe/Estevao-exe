@@ -12,7 +12,7 @@
 ## 👨‍💻 Sobre mim
 
 Atualmente estou cursando **Ciência da Computação** e estudando programação e desenvolvimento de jogos.
-Preguiçoso? sim mas conciente 
+Preguiçoso? sim mas eficiente
 Gosto de aprender criando projetos e colocando em prática os conhecimentos adquiridos.
 
 * 🎓 Cursando **Ciência da Computação**
@@ -27,16 +27,22 @@ Gosto de aprender criando projetos e colocando em prática os conhecimentos adqu
 
 
 <p align="center">
+  
+<img src="https://skillicons.dev/icons?i=cs" height="50" alt="C#"/>
 
 <img src="https://skillicons.dev/icons?i=python" height="50" alt="Python"/>
 
-<img src="https://skillicons.dev/icons?i=cs" height="50" alt="C#"/>
-
 <img src="https://skillicons.dev/icons?i=godot" height="50" alt="Godot"/>
+
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/HTML.svg" height ="50" alt="Vs"/>
 
 <img src="https://skillicons.dev/icons?i=git" height="50" alt="Git"/>
 
 <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub"/>
+
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/VSCode-Dark.svg" height ="50" alt="Vs"/>
+
+
 
 </p>
 
@@ -56,6 +62,8 @@ Aqui estão alguns dos projetos que estou desenvolvendo enquanto aprendo program
 * GDScript
 * C#
 * Git e GitHub
+* Visual Studio
+* HTML
 
 📌 **O que estou praticando:**
 
@@ -117,5 +125,5 @@ Aprender → Praticar → Errar → Corrigir → Criar → Evoluir 🚀
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
+  <img src="https://i.pinimg.com/1200x/60/c4/f7/60c4f72f78e7ab073d5d47dc11fa6ef8.jpg"/>
 </p>
