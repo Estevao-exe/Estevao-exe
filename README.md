@@ -112,18 +112,19 @@ Atualmente estou trabalhando em um jogo 2D utilizando:
 ```
 
 ### 🧩 O que estou praticando
-
-* Movimentação de personagens
-* Máquina de estados
-* Animações
-* Colisões
-* Física
-* Inimigos
-* Interações
-* Detecção de obstáculos
-* Organização de cenas
-* Organização de scripts
-* Mecânicas de gameplay
+```
+ Movimentação de personagens
+ Máquina de estados
+ Animações
+ Colisões
+ Física
+ Inimigos
+ Interações
+ Detecção de obstáculos
+ Organização de cenas
+ Organização de scripts
+ Mecânicas de gameplay
+```
 
 O desenvolvimento do jogo também funciona como um laboratório para testar aquilo que estou aprendendo em programação.
 
@@ -148,6 +149,8 @@ O desenvolvimento do jogo também funciona como um laboratório para testar aqui
 <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub"/>
 
 <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="VS Code"/>
+
+<img src="https://cdn.simpleicons.org/claude" height="50" alt="Claude"/>
 
 </p>
 
