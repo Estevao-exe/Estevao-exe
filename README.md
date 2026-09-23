@@ -21,7 +21,6 @@ Gosto de entender **como as coisas funcionam por trás do código**, testar idei
 * 🎓 Cursando **Ciência da Computação**
 * 💻 Estudando **programação e lógica**
 * 🐍 Utilizando **Python**
-* 🔷 Estudando **C#**
 * 🎮 Desenvolvendo jogos como **hobby**
 * 🕹️ Utilizando a **Godot Engine**
 * 🔀 Aprendendo **Git e GitHub**
@@ -88,45 +87,7 @@ Também considero importante aprender a identificar quando uma resposta da IA es
 
 ---
 
-# 🎮 Desenvolvimento de Jogos
 
-Desenvolvimento de jogos é atualmente meu principal **hobby dentro da programação**.
-
-Estou utilizando a **Godot Engine** para aprender conceitos de programação enquanto construo meu próprio jogo.
-
-Meu projeto principal começou como um projeto de estudo, mas aos poucos estou tentando transformá-lo em algo realmente meu, adicionando ideias, mecânicas e sistemas próprios.
-
-### 🕹️ Meu jogo
-
-Atualmente estou trabalhando em um jogo 2D utilizando:
-
-```
- 🎮 Godot Engine
- 💻 GDScript
- 🔷 C e C# nos estudos de programação
- 🔀 Git
- 🐙 GitHub
- 🎨 Pixel Art
- 🎵 Música e efeitos sonoros
-  
-```
-
-### 🧩 O que estou praticando
-```
- Movimentação de personagens
- Máquina de estados
- Animações
- Colisões
- Física
- Inimigos
- Interações
- Detecção de obstáculos
- Organização de cenas
- Organização de scripts
- Mecânicas de gameplay
-```
-
-O desenvolvimento do jogo também funciona como um laboratório para testar aquilo que estou aprendendo em programação.
 
 ---
 
@@ -138,7 +99,6 @@ O desenvolvimento do jogo também funciona como um laboratório para testar aqui
 
 <img src="https://skillicons.dev/icons?i=cs" height="50" alt="C#"/>
 
-<img src="https://skillicons.dev/icons?i=godot" height="50" alt="Godot"/>
 
 <img src="https://skillicons.dev/icons?i=c" height="50" alt="C"/>
 
@@ -170,10 +130,6 @@ Projetos, protótipos e experimentos relacionados ao desenvolvimento de jogos.
 
 Exercícios, pequenos programas e projetos utilizados para praticar programação.
 
-### 🔷 C#
-
-Estudos e projetos para aprender programação orientada a objetos e futuramente utilizar C# também no desenvolvimento de jogos.
-
 ### 💻 C / Lógica de Programação
 
 Exercícios acadêmicos e projetos utilizados para desenvolver minha lógica e fundamentos de programação.
@@ -194,7 +150,6 @@ Experimentos e projetos relacionados a design, HTML, CSS e desenvolvimento web.
 💻 Programação
 🧠 Lógica de Programação
 🐍 Python
-🔷 C#
 ⚙️ C
 🎮 Godot Engine
 🕹️ Game Development
@@ -238,7 +193,7 @@ Isso faz parte do processo.
 
 O objetivo é poder olhar para projetos antigos no futuro e perceber:
 
-> **"Eu não programaria dessa maneira hoje."**
+**"Eu não programaria dessa maneira hoje."**
 
 Porque isso significa que eu evoluí.
 
