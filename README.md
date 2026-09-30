@@ -1,11 +1,7 @@
 <h1 align="center"> Estevão Figueiredo Garcia 😎</h1>
 
 <p align="center">
-  🎓 Estudante de Ciência da Computação • 💻 Programador em formação • 🎮 Game Dev por hobby
-</p>
-
-<p align="center">
-  <em>Aprendendo programação criando coisas, quebrando coisas e tentando descobrir por que quebraram. 🚀</em>
+  🎓 Estudante de Ciência da Computação • 💻 Programador em formação 
 </p>
 
 ---
@@ -20,33 +16,23 @@ Gosto de entender **como as coisas funcionam por trás do código**, testar idei
 
 * 🎓 Cursando **Ciência da Computação**
 * 💻 Estudando **programação e lógica**
-* 🐍 Utilizando **Python**
-* 🎮 Desenvolvendo jogos como **hobby**
-* 🕹️ Utilizando a **Godot Engine**
-* 🔀 Aprendendo **Git e GitHub**
-* 🧠 Buscando entender o código em vez de apenas copiá-lo
-* 🚀 Criando projetos para colocar o conhecimento em prática
-
----
 
 # 💻 Programação
 
 Programação é uma das áreas que mais quero desenvolver.
 
 Atualmente estou estudando conceitos como:
+```
+🧠 Lógica de programação
+📦 Variáveis e tipos de dados
+🔀 Condicionais
+🔁 Estruturas de repetição
+🧩 Funções
+📚 Estruturas de dados
+🏗️ Organização e arquitetura de código
+🔀 Controle de versão
 
-* 🧠 Lógica de programação
-* 📦 Variáveis e tipos de dados
-* 🔀 Condicionais
-* 🔁 Estruturas de repetição
-* 🧩 Funções
-* 📚 Estruturas de dados
-* 🏗️ Organização e arquitetura de código
-* 🐛 Debugging
-* 🔀 Controle de versão
-* 📐 Programação orientada a objetos
-* 🎮 Programação aplicada ao desenvolvimento de jogos
-
+```
 Meu objetivo não é apenas aprender uma linguagem específica, mas desenvolver uma **base sólida de programação** que possa ser utilizada em diferentes projetos e tecnologias.
 
 ---
@@ -55,41 +41,9 @@ Meu objetivo não é apenas aprender uma linguagem específica, mas desenvolver 
 
 A Inteligência Artificial faz parte do meu processo de aprendizado.
 
-Utilizo ferramentas como **ChatGPT** e **Claude** para me ajudar a estudar, pesquisar, entender conceitos, encontrar erros e acelerar o desenvolvimento dos meus projetos.
-
-Mas a ideia não é simplesmente pedir um código pronto e colocar no projeto.
-
-Procuro utilizar IA como uma espécie de **assistente de programação e estudo**:
-
-```text
-Tenho uma dúvida
-      ↓
-Pergunto para a IA
-      ↓
-Entendo a explicação
-      ↓
-Analiso o código
-      ↓
-Testo por conta própria
-      ↓
-Encontro erros
-      ↓
-Corrijo
-      ↓
-Aprendo com o processo
-```
 
 A IA me permite **aprender e experimentar mais rapidamente**, mas o objetivo continua sendo desenvolver minha própria capacidade de programar.
 
-> 🧠 **IA deve acelerar meu aprendizado, não substituir meu aprendizado.**
-
-Também considero importante aprender a identificar quando uma resposta da IA está errada, adaptar soluções e entender o motivo pelo qual determinado código funciona.
-
----
-
-
-
----
 
 # 🛠️ Tecnologias e Ferramentas
 
@@ -116,50 +70,7 @@ Também considero importante aprender a identificar quando uma resposta da IA es
 
 ---
 
-# 📂 Meus Projetos
 
-Meu GitHub funciona como um registro da minha evolução.
-
-Aqui você pode encontrar diferentes tipos de projetos:
-
-### 🎮 Game Development
-
-Projetos, protótipos e experimentos relacionados ao desenvolvimento de jogos.
-
-### 🐍 Python
-
-Exercícios, pequenos programas e projetos utilizados para praticar programação.
-
-### 💻 C / Lógica de Programação
-
-Exercícios acadêmicos e projetos utilizados para desenvolver minha lógica e fundamentos de programação.
-
-### 📚 Estudos
-
-Trabalhos de faculdade, exercícios, atividades e projetos desenvolvidos durante minha formação.
-
-### 🎨 Design e Front-end
-
-Experimentos e projetos relacionados a design, HTML, CSS e desenvolvimento web.
-
----
-
-# 📚 Atualmente estudando
-
-```text
-💻 Programação
-🧠 Lógica de Programação
-🐍 Python
-⚙️ C
-🎮 Godot Engine
-🕹️ Game Development
-🔀 Git
-🐙 GitHub
-🤖 Inteligência Artificial aplicada à programação
-🏗️ Estrutura e organização de código
-```
-
----
 
 # 🚀 Como estou aprendendo
 
@@ -176,7 +87,7 @@ Minha forma de aprendizado envolve criar, testar e resolver problemas.
      ↓
 🐛 Errar
      ↓
-🔎 Investigar
+🔎 Procurar
      ↓
 🔧 Corrigir
      ↓
@@ -193,7 +104,7 @@ Isso faz parte do processo.
 
 O objetivo é poder olhar para projetos antigos no futuro e perceber:
 
-**"Eu não programaria dessa maneira hoje."**
+**"Nossa antes eu não sabia nada, hoje sei um pouco mais que antes."**
 
 Porque isso significa que eu evoluí.
 
@@ -204,44 +115,13 @@ Porque isso significa que eu evoluí.
 Meus principais objetivos são:
 
 * 🧠 Construir uma base sólida em programação
-* 💻 Melhorar minha capacidade de resolver problemas
-* 🎮 Desenvolver meus próprios jogos
-* 🔷 Aprender C# de forma mais profunda
-* 🐍 Continuar evoluindo em Python
+* 🐍 Continuar evoluindo em Python, C e C#
 * 🔀 Aprender melhor Git e GitHub
 * 🤖 Aprender a utilizar IA de maneira responsável no desenvolvimento
 * 🏗️ Aprender a escrever códigos mais organizados e reutilizáveis
 * 📚 Transformar projetos de estudo em projetos cada vez mais completos
+* * 🎮 Desenvolver meus próprios jogos
 
----
-
-# 💭 Uma pequena filosofia
-
-Não preciso saber tudo para começar um projeto.
-
-Preciso começar, pesquisar, testar e aprender conforme os problemas aparecem.
-
-```text
-Não sei
-  ↓
-Pesquiso
-  ↓
-Tento
-  ↓
-Erro
-  ↓
-Entendo
-  ↓
-Tento novamente
-  ↓
-Aprendo
-```
-
-E quando uma IA pode me ajudar nesse processo, eu uso.
-
-Não para pensar por mim.
-
-**Mas para conseguir aprender mais, experimentar mais e evoluir mais rápido.**
 
 ---
 
@@ -253,13 +133,13 @@ Ele representa principalmente **o que estou aprendendo a fazer**.
 
 Os projetos aqui provavelmente vão mudar bastante com o tempo, assim como meu código, minhas ideias e minha forma de programar.
 
-🎮 Alguns projetos serão jogos.
-
 💻 Alguns serão exercícios.
 
 🧪 Alguns serão experimentos.
 
 🐛 Alguns provavelmente terão muitos bugs.
+
+🎮 Alguns projetos serão jogos.
 
 Mas todos fazem parte da mesma coisa:
 
@@ -269,12 +149,12 @@ Mas todos fazem parte da mesma coisa:
 
 <p align="center">
 
-### 🎮 Programar é meu estudo. Criar jogos é meu hobby. 🚀
+### 🎮 Programar e criar jogos é beautful. 🚀
 
 </p>
 
 <p align="center">
-  <strong>Aprender → Criar → Errar → Corrigir → Evoluir</strong>
+  <strong> Imaginar -> Tentar criar -> Falhar -> Tentar de novo -> Resolver </strong>
 </p>
 
 <p align="center">
