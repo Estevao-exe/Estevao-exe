@@ -125,22 +125,6 @@ Meus principais objetivos são:
 
 ---
 
-## ⚡ Sobre este GitHub
-
-Este perfil não representa apenas o que eu já sei.
-
-Ele representa principalmente **o que estou aprendendo a fazer**.
-
-Os projetos aqui provavelmente vão mudar bastante com o tempo, assim como meu código, minhas ideias e minha forma de programar.
-
-💻 Alguns serão exercícios.
-
-🧪 Alguns serão experimentos.
-
-🐛 Alguns provavelmente terão muitos bugs.
-
-🎮 Alguns projetos serão jogos.
-
 Mas todos fazem parte da mesma coisa:
 
 **minha evolução como programador.**
