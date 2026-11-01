@@ -3,13 +3,13 @@
 ![texto qualquer](assets/Banner01.jpg)
 
 </div>
-<div align="center">  
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=%F0%9D%94%BB%F0%9D%95%A0%F0%9D%95%A6%F0%9D%95%93%F0%9D%95%9D%F0%9D%95%96+%F0%9D%95%8A%F0%9D%95%A5%F0%9D%95%A3%F0%9D%95%A6%F0%9D%95%94%F0%9D%95%9C&weight=500&size=32&pause=900&color=4B06A9&background=45617600&width=470&height=70&lines=%F0%9D%94%BC%F0%9D%95%A4%F0%9D%95%A5%F0%9D%95%96%F0%9D%95%A7%F0%9D%95%92%CC%83%F0%9D%95%A0+%F0%9D%94%BD%F0%9D%95%9A%F0%9D%95%98%F0%9D%95%A6%F0%9D%95%96%F0%9D%95%9A%F0%9D%95%A3%F0%9D%95%96%F0%9D%95%95%F0%9D%95%A0+%F0%9D%94%BE%F0%9D%95%92%F0%9D%95%A3%F0%9D%95%94%F0%9D%95%9A%F0%9D%95%92+%F0%9F%98%8E;%F0%9D%94%BD%F0%9D%95%8C%F0%9D%95%8B%F0%9D%95%8C%E2%84%9D%F0%9D%95%86+%F0%9D%94%BD%F0%9D%95%8C%F0%9D%95%83%F0%9D%95%83-%F0%9D%95%8A%F0%9D%95%8B%F0%9D%94%B8%E2%84%82%F0%9D%95%82;%F0%9D%94%BE%F0%9D%95%92%F0%9D%95%9E%F0%9D%95%96-%F0%9D%94%BB%F0%9D%95%96%F0%9D%95%A7+%F0%9D%95%A1%F0%9D%95%A0%F0%9D%95%A3+%F0%9D%95%99%F0%9D%95%A0%F0%9D%95%93%F0%9D%95%93%F0%9D%95%AA)](https://git.io/typing-svg)
-
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5D13F7&width=470&height=70&lines=%F0%9D%99%BE%F0%9D%9A%95%F0%9D%9A%8A%CC%81%2C+%F0%9D%9A%9C%F0%9D%9A%98%F0%9D%9A%9E+%F0%9D%99%B4%F0%9D%9A%9C%F0%9D%9A%9D%F0%9D%9A%8E%F0%9D%9A%9F%F0%9D%9A%8A%CC%83%F0%9D%9A%98+%F0%9D%99%B5.+%F0%9D%99%B6%F0%9D%9A%8A%F0%9D%9A%9B%F0%9D%9A%8C%F0%9D%9A%92%F0%9D%9A%8A;Futuro+Full-Stack+;%F0%9D%97%A2%F0%9D%97%AF%F0%9D%97%BF%F0%9D%97%B6%F0%9D%97%B4%F0%9D%97%AE%F0%9D%97%B1%F0%9D%97%BC+%F0%9D%97%BD%F0%9D%97%BC%F0%9D%97%BF+%F0%9D%98%83%F0%9D%97%B6%F0%9D%98%80%F0%9D%97%B6%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%BF+%F0%9D%97%BA%F0%9D%97%B2%F0%9D%98%82+%F0%9D%97%BD%F0%9D%97%B2%F0%9D%97%BF%F0%9D%97%B3%F0%9D%97%B6%F0%9D%97%B9+%3AD)](https://git.io/typing-svg)
 </div>
 
-### Ola, sou Estevão Figueiredo Garcia 😎 Estudante de Ciência da Computação, gosto de desenvolvendo jogos e software.
+### Sou Estevão Figueiredo Garcia Estudante de Ciência da Computação, gosto de desenvolvendo jogos e software.
 
 Atualmente curso **Ciência da Computação** e estou construindo minha base como programador através de estudos, projetos pessoais e muita prática. Tenho interesse especial por **programação e desenvolvimento de jogos**.
 
