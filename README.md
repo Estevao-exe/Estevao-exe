@@ -50,9 +50,15 @@ Meu objetivo é construir uma base sólida em programação e desenvolver meus p
 
 <img align="right" width="100" src="assets/teste.gif" alt="Gameplay do jogo de teste"/>
 
-<!-- Créditos dos sprites de terceiros: escreva aqui o autor e o link de cada pacote usado, por exemplo:
-**Créditos:** sprites de [NOME DO AUTOR](LINK).
--->
+---
+
+## 🎨 Pixel Art / Assets
+
+Este projeto utiliza assets de pixel art disponibilizados publicamente por [GrafxKid](https://opengameart.org/users/grafxkid).
+
+Os assets estão sob a licença **CC0 1.0 Universal (Public Domain Dedication)**, que permite usar, modificar e distribuir as obras. Termos: [Creative Commons — CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/).
+
+**Créditos:** GrafxKid, pixel art assets (CC0 1.0).
 
 ---
 
