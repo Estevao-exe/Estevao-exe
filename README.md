@@ -1,6 +1,6 @@
 <div>
 
-![Banner do perfil de Estevão Figueiredo Garcia](assets/Banner01.jpg)
+<!--![Banner do perfil de Estevão Figueiredo Garcia](assets/BannerGitHub.anim) -->
 
 </div>
 
