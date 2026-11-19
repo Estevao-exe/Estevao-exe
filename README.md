@@ -1,8 +1,4 @@
-<div>
 
-<!--![Banner do perfil de Estevão Figueiredo Garcia](assets/BannerGitHub.anim) -->
-
-</div>
 
 <div align="center">
   
@@ -21,6 +17,7 @@ Meu objetivo é construir uma base sólida em programação e desenvolver meus p
 
 # 🛠️ Linguagens e ferramentas
 
+<img align="right" width="100" src="assets/Norex_idle.gif" alt="Gameplay do jogo de teste"/>
 
 **Estudando**
 
@@ -47,7 +44,6 @@ Meu objetivo é construir uma base sólida em programação e desenvolver meus p
   <img src="assets/print-2.png" width="48%" alt="Fase da floresta de outono com o pinguim, um esqueleto e uma poça alaranjada"/>
 </p>
 
-
 <img align="right" width="100" src="assets/teste.gif" alt="Gameplay do jogo de teste"/>
 
 ---
@@ -58,7 +54,7 @@ Este projeto utiliza assets de pixel art disponibilizados publicamente por [Graf
 
 Os assets estão sob a licença **CC0 1.0 Universal (Public Domain Dedication)**, que permite usar, modificar e distribuir as obras. Termos: [Creative Commons — CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/).
 
-**Créditos:** GrafxKid, pixel art assets (CC0 1.0).
+### Créditos: **GrafxKid**, pixel *art assets* (CC0 1.0).
 
 ---
 
@@ -83,8 +79,13 @@ Os assets estão sob a licença **CC0 1.0 Universal (Public Domain Dedication)**
   <strong>Imaginar → Tentar criar → Falhar → Tentar de novo → Resolver</strong>
 </p>
 
-<img align="right" width="100" src="assets/729935052159591172.jfif" alt="Imagem de encerramento do perfil"/>
 
 <p align="center">
   😁 Obrigado por visitar meu perfil!
 </p>
+
+<div align="center">
+
+![Banner do perfil de Estevão Figueiredo Garcia](assets/BannerGitHub1.gif)
+
+</div>
