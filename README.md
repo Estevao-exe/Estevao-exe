@@ -1,5 +1,3 @@
-
-
 <div align="center">
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5D13F7&width=470&height=70&lines=%F0%9D%99%BE%F0%9D%9A%95%F0%9D%9A%8A%CC%81%2C+%F0%9D%9A%9C%F0%9D%9A%98%F0%9D%9A%9E+%F0%9D%99%B4%F0%9D%9A%9C%F0%9D%9A%9D%F0%9D%9A%8E%F0%9D%9A%9F%F0%9D%9A%8A%CC%83%F0%9D%9A%98+%F0%9D%99%B5.+%F0%9D%99%B6%F0%9D%9A%8A%F0%9D%9A%9B%F0%9D%9A%8C%F0%9D%9A%92%F0%9D%9A%8A;Futuro+Full-Stack+;%F0%9D%97%A2%F0%9D%97%AF%F0%9D%97%BF%F0%9D%97%B6%F0%9D%97%B4%F0%9D%97%AE%F0%9D%97%B1%F0%9D%97%BC+%F0%9D%97%BD%F0%9D%97%BC%F0%9D%97%BF+%F0%9D%98%83%F0%9D%97%B6%F0%9D%98%80%F0%9D%97%B6%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%BF+%F0%9D%97%BA%F0%9D%97%B2%F0%9D%98%82+%F0%9D%97%BD%F0%9D%97%B2%F0%9D%97%BF%F0%9D%97%B3%F0%9D%97%B6%F0%9D%97%B9+%3AD)](https://git.io/typing-svg)
@@ -17,7 +15,7 @@ Meu objetivo é construir uma base sólida em programação e desenvolver meus p
 
 # 🛠️ Linguagens e ferramentas
 
-<img align="right" width="100" src="assets/Norex_idle.gif" alt="Gameplay do jogo de teste"/>
+<img align="right" width="100" src="assets/Norex_idle2.gif" alt="Gameplay do jogo de teste"/>
 
 **Estudando**
 
